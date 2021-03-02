@@ -18,7 +18,7 @@ Colab is a free Jupyter notebook environment that runs entirely in the cloud. Mo
 # Prerequisites
 ⚙Underlying tools:
 
-Visual Studio code (or) Google Colab, Jupyter notebook, Python, G
+Visual Studio code (or) Google Colab (or) Jupyter notebook.
 
 📃Algorithms:
 
