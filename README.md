@@ -24,7 +24,7 @@ Visual Studio code (or) Google Colab (or) Jupyter notebook.
 
 KNN (K-Nearest Neighbor) algorithm
 
-The k-nearest neighbors (KNN) algorithm is a simple, easy-to-implement supervised machine learning algorithm that can be used to solve both classification and regression problems.
+The K-Nearest Neighbors (KNN) algorithm is a simple, easy-to-implement supervised machine learning algorithm that can be used to solve both classification and regression problems.
 
 # Setup
 1) Download the source dataset and test set from the repository.
