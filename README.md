@@ -26,8 +26,8 @@ KNN (K-Nearest Neighbor) algorithm
 
 The K-Nearest Neighbors (KNN) algorithm is a simple, easy-to-implement supervised machine learning algorithm that can be used to solve both classification and regression problems.
 
-# Setup
-1) Download the source dataset and test set from the repository.
+# Instructions
+1) Download the source dataset and test set from the links given below.
 2) Open the .ipynb file in Google colab (or) Visual studio code
 3) Install necessary libraries if they aren't present already.
 4) Mention the dataset and testset file adresses in the required places.
@@ -42,7 +42,9 @@ https://uweb.engr.arizona.edu/~429rns/audiofiles/audiofiles.html
 
 # References
 https://www.researchgate.net/publication/337001430_Machine_Learning_for_Music_Genre_Classification
+
 https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761
+
 https://www.javatpoint.com/k-nearest-neighbor-algorithm-for-machine-learning
 
 https://www.youtube.com/watch?v=Pqo9o0286Qs
